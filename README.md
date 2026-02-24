@@ -1,6 +1,7 @@
 # From Context to Commits: A Structured Approach to AI-Powered Development with Claude and Portkey
 
 **Presenter:** David Blankenship
+
 **Note:** This was an internal presentation. The slides are included here for reference.
 
 ---
