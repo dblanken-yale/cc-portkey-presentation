@@ -27,6 +27,7 @@ AI coding tools are widely available, but using them without structure often lea
 | File | Description |
 |------|-------------|
 | [skillshare.md](./skillshare.md) | The presentation slides (internal use) |
+| [bonus.md](./bonus.md) | Supplemental slides: plugins, skills, status line, and tool ideas (time permitting) |
 | [session_transcript_readable.md](./session_transcript_readable.md) | Plain-language walkthrough of all four working sessions |
 | [CLAUDE_chat_icon_prd.md](./CLAUDE_chat_icon_prd.md) | PRD: configurable chat button icon — Phase 1 |
 | [CLAUDE_1078_widget_styling.md](./CLAUDE_1078_widget_styling.md) | PRD: mobile responsiveness — Phase 2 |
